@@ -9,13 +9,13 @@
 
 ---
 
-## 🐍 Jangan nanya lagi
+## 🐍 Jangan nanya lagi, kujelaskan ini
 
 Iya! Saya **Darojatun** — seorang pelajar yang tidak suka belajar:
 - 👨‍💻 Koding bukan kepahamanku
 - 🔧 Ngedit gambar apa lagi
 - 🐧 Semua system operasi komputer aku suka tapi belum tentu aku bisa ya 🌟)
-- ☕ NGopi sekali sehari tapi 2 gelas...
+- ☕ Ngopi sekali sehari tapi 2 gelas...
 
 ---
 
