@@ -64,7 +64,7 @@ Hehehe! Namaku **Darojatun** — seorang pelajar yang tidak suka belajar:
 ---
 
 <p align="center">
-  <b>🌐 Gak usah hubungi, aku orang yang susah angkat hape!</b><br>
+  <b>🌐 Gak usah hubungi, aku orangnya susah angkat hape!</b><br>
   💬 Jejak Digital:
   <a href="https://darojatun.github.io/">GitHub</a> |
   <a href="https://blog.djatun.com">Blog</a> |
