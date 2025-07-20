@@ -9,17 +9,18 @@
 
 ---
 
-## 🐍 Jangan nanya lagi, kujelaskan ini
+## 🐍 Jangan tanya lagi, kujelaskan pun
 
-Iya! Saya **Darojatun** — seorang pelajar yang tidak suka belajar:
-- 👨‍💻 Koding bukan kepahamanku
-- 🔧 Ngedit gambar apa lagi
+Hehehe! Namaku **Darojatun** — seorang pelajar yang tidak suka belajar:
+- 👨‍💻 Koding bukan kepahamanku,
+- 🔧 Ngedit gambar apa lagi,
 - 🐧 Semua system operasi komputer aku suka tapi belum tentu aku bisa ya 🌟)
+- 📄 Makanya kupelajari dulu bentar, baru pusing ya kan ⚡
 - ☕ Ngopi sekali sehari tapi 2 gelas...
 
 ---
 
-## 📦 Repositori Pilihan
+## 📦 Repositori agak serius
 
 | Proyek | Peran | Tag |
 |--------|-----------|--------|
@@ -64,7 +65,7 @@ Iya! Saya **Darojatun** — seorang pelajar yang tidak suka belajar:
 
 <p align="center">
   <b>🌐 Gak usah hubungi, aku orang yang susah angkat hape!</b><br>
-  Jejak Digital:
+  💬 Jejak Digital:
   <a href="https://darojatun.github.io/">GitHub</a> |
   <a href="https://blog.djatun.com">Blog</a> |
 </p>
