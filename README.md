@@ -1,6 +1,6 @@
 <h1 align="center">
   🐍 <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3BAF5D&center=true&vCenter=true&width=435&lines=Sarang+Ular+pulak+katanya;ChatGPT+memang+kurang+ajar." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3BAF5D&center=true&vCenter=true&width=435&lines=Sarang+Ular+pulak+katanya;CChatGPT+memang+kurang+ajar." alt="Typing SVG" />
 </h1>
 
 <p align="center">
