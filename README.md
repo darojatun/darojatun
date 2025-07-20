@@ -24,7 +24,7 @@ Iya! Saya **Darojatun** — seorang pelajar yang tidak suka belajar:
 | Proyek | Peran | Tag |
 |--------|-----------|--------|
 | 🛠️ **Sultan POS** | Ikut-ikut doank gak tau apa-apa | `Qt5`, `C++`, `Windows`, `Linux` |
-| 🔄 **Script Mikrotik** | Tak jauh-jauh dari HotSpot dan Userman | `ROS6`, `ROS7`, `Telegram`, `ESP8266` |
+| 🔄 **Script Mikrotik** | Gak jauh-jauh dari HotSpot dan Userman | `ROS6`, `ROS7`, `Telegram`, `ESP8266` |
 | 🧪 **Bak Pasir** | Cuma tempat nyatat karna kadang pas perlu lupa | `Linux`, `MacOS`, `Windows`, `Android` |
 
 ---
@@ -64,6 +64,7 @@ Iya! Saya **Darojatun** — seorang pelajar yang tidak suka belajar:
 
 <p align="center">
   <b>🌐 Gak usah hubungi, aku orang yang susah angkat hape!</b><br>
-  <a href="https://github.com/darojatun">GitHub</a> |
-  <a href="mailto:darojatun@gmail.com">Email</a> |
+  Jejak Digital:
+  <a href="[https://github.com/darojatun](https://darojatun.github.io/)">GitHub</a> |
+  <a href="https://blog.djatun.com">Blog</a> |
 </p>
