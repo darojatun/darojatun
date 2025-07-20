@@ -25,11 +25,11 @@ Iya! Saya **Darojatun** — seorang pelajar yang tidak suka belajar:
 |--------|-----------|--------|
 | 🛠️ **Sultan POS** | Ikut-ikut doank gak tau apa-apa | `Qt5`, `C++`, `Windows`, `Linux` |
 | 🔄 **Script Mikrotik** | Tak jauh-jauh dari HotSpot dan Userman | `ROS6`, `ROS7`, `Telegram`, `ESP8266` |
-| 🧪 **Eksperimen** | Tempat bermain & eksplorasi teknologi | `Linux`, `MacOS`, `Windows`, `Android` |
+| 🧪 **Bak Pasir** | Cuma tempat nyatat karna kadang pas perlu lupa | `Linux`, `MacOS`, `Windows`, `Android` |
 
 ---
 
-## 🧰 Tools & Teknologi
+## 🧰 Asal tarok aja nya ini jangan ditanya, aku gak faham
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white&style=for-the-badge)
@@ -47,7 +47,7 @@ Iya! Saya **Darojatun** — seorang pelajar yang tidak suka belajar:
 
 ---
 
-## 🐍 Snake-eats-code
+## 🐍 ular-ularan, ular kurang keerjaan
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contribution graph" />
@@ -55,7 +55,7 @@ Iya! Saya **Darojatun** — seorang pelajar yang tidak suka belajar:
 
 ---
 
-## ☕ Sedikit Kata
+## ☕ Sedikit Kata banyakin ngopi
 
 > _"Dunia sementara akhirat selamanya."_  
 > — jadi gak usah lalai cuma karena hal gak penting kayak gini.
