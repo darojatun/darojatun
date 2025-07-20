@@ -1,6 +1,6 @@
 <h1 align="center">
   🐍 <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3BAF5D&center=true&vCenter=true&width=435&lines=Selamat+Datang+di+Sarang+Ular!;Coding+adalah+buah+yang+kupelihara." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3BAF5D&center=true&vCenter=true&width=435&lines=Selamat+Datang+di+Sarang+Ular!;ChatGPT+aemang+kurang+ajar." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -9,23 +9,23 @@
 
 ---
 
-## 🐍 Tentang Saya
+## 🐍 Jangan nanya lagi
 
-Halo! Saya **Darojatun** — seorang penjelajah digital yang suka:
-- 👨‍💻 Koding, ngulik sistem operasi, dan nge-oprek server
-- 🔧 Ngebuat alat bantu otomatis dan skrip kecil yang menyelamatkan waktu
-- 🐧 Pecinta Linux (dari Mint, FreeBSD, sampai Sparky Linux 🌟)
-- ☕ Penikmat kopi hitam pahit, apalagi kalau dari Sipirok...
+Iya! Saya **Darojatun** — seorang pelajar yang tidak suka belajar:
+- 👨‍💻 Koding bukan kepahamanku
+- 🔧 Ngedit gambar apa lagi
+- 🐧 Semua system operasi komputer aku suka tapi belum tentu aku bisa ya 🌟)
+- ☕ NGopi sekali sehari tapi 2 gelas...
 
 ---
 
 ## 📦 Repositori Pilihan
 
-| Proyek | Deskripsi | Bahasa |
+| Proyek | Peran | Tag |
 |--------|-----------|--------|
-| 🛠️ **Sultan POS** | Sistem kasir lokal ringan & cepat | `PHP`, `JS`, `Shell` |
-| 🔄 **Script Mikrotik** | Otomatisasi konfigurasi dan perintah | `RouterOS Script` |
-| 🧪 **Eksperimen** | Tempat bermain & eksplorasi teknologi | `Python`, `Bash`, `C` |
+| 🛠️ **Sultan POS** | Ikut-ikut doank gak tau apa-apa | `Qt5`, `C++`, `Windows`, `Linux` |
+| 🔄 **Script Mikrotik** | Tak jauh-jauh dari HotSpot dan Userman | `ROS6`, `ROS7`, `Telegram`, `ESP8266` |
+| 🧪 **Eksperimen** | Tempat bermain & eksplorasi teknologi | `Linux`, `MacOS`, `Windows`, `Android` |
 
 ---
 
@@ -57,13 +57,13 @@ Halo! Saya **Darojatun** — seorang penjelajah digital yang suka:
 
 ## ☕ Sedikit Kata
 
-> _"Kode itu seperti kopi. Hitam, kuat, dan bisa bikin melek semalaman."_  
-> — seseorang yang lupa tidur karena bug.
+> _"Dunia sementara akhirat selamanya."_  
+> — jadi gak usah lalai cuma karena hal gak penting kayak gini.
 
 ---
 
 <p align="center">
-  <b>🌐 Temui saya di dunia digital!</b><br>
+  <b>🌐 Gak usah hubungi, aku orang yang susah angkat hape!</b><br>
   <a href="https://github.com/darojatun">GitHub</a> |
   <a href="mailto:darojatun@gmail.com">Email</a> |
 </p>
