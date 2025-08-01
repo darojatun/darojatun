@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150" alt="Snake GIF" />
+  <img src="lufi.jpg" width="300" alt="Makin bangsat aja Pemerintah Indonesia!! NGibarin bendera gini pun mau dipidanakan" />
 </p>
 
 ---
