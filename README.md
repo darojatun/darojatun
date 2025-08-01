@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img style="border-radius: 10%;" src="lufi.jpg" width="650" alt="Makin bangsat aja Pemerintah Indonesia!! NGibarin bendera gini pun mau dipidanakan" />
+  <img src="lufi.jpg" width="650" alt="Makin bangsat aja Pemerintah Indonesia!! NGibarin bendera gini pun mau dipidanakan" style="border-radius: 15%;" />
 </p>
 
 ---
